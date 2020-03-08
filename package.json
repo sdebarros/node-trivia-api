@@ -27,9 +27,7 @@
   "bugs": {
     "url": "https://github.com/k3rn31p4nic/node-trivia-api/issues"
   },
-  "dependencies": {
-    "got": "^8.1.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "eslint": "^4.17.0"
   }
